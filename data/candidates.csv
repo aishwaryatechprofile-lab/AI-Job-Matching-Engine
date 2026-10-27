@@ -1,0 +1,6 @@
+candidate_id,name,skills,experience_years,education,preferred_location,expected_salary,profile_summary
+C001,Alice Johnson,python|tensorflow|machine learning|deep learning|nlp,3,M.Tech in AI,Remote,₹15 LPA,"AI graduate with experience building deep learning and NLP models."
+C002,Bob Smith,python|sql|statistics|data visualization|r,2,B.Tech in Data Science,Remote,₹12 LPA,"Data science candidate experienced in analytics, reporting and statistical analysis."
+C003,Charlie Brown,javascript|react|node.js|python|sql,2,B.Tech in Computer Science,Hybrid,₹10 LPA,"Full stack developer building web applications and APIs."
+C004,Diana Prince,aws|docker|kubernetes|python|linux,4,B.Tech in IT,Remote,₹18 LPA,"Cloud and DevOps candidate familiar with deployment and infrastructure."
+C005,Eve Wilson,python|network security|cryptography|linux,3,M.Tech in Cyber Security,On-site,₹14 LPA,"Cyber security graduate interested in network defense and secure systems."
